@@ -1,5 +1,5 @@
 # SquirrelAndChestnutsGame
-The Squirrel and Tigers game is programmed by using Python.
+The Squirrel and Chestnusts game is programmed by using Python.
 The game uses the Pygame library.
 To play games, you can use a keyboard or computer mouse.
 In the process of building the game there will be shortcomings.
